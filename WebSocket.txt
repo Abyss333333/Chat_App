@@ -1,0 +1,13 @@
+Web Socket Protocol
+ - going to help us set up communication
+ - Set up a server using Node Js and other clients can connect to this server
+ -WS allows for full-duplex communication. BiDirectional communication
+ --Server can initiate with client and vice verca
+
+ -With HTTP request, client job to initiate the request asking from data from the server and the server would respond
+ -- server could only communicate with client if requested
+
+ -WS protool is a different protocol from HTTP
+ - persistent connection and BiDirectional communication
+
+- 

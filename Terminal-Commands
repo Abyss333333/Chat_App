@@ -1,0 +1,5 @@
+-- npm init // to initialize npm
+--npm i experss@4.14.1 // to initialize experss
+--npm i nodemon@latest_vers --save-dev // to run on dev
+-- In package.json change scripts for "start" and "dev"
+--npm i socket.io@2.2.0 
